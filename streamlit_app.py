@@ -1,5 +1,3 @@
-pip install --upgrade streamlit matplotlib reportlab numpy
-
 import numpy as np
 import matplotlib.pyplot as plt
 import streamlit as st
